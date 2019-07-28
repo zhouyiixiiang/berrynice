@@ -399,7 +399,7 @@ CUDA：Compute Unified Device Architecture 统一计算架构，是NVIDIA提出�
 - 是NVIDIA对于GPGPU的正式名称
 - 使用者可以利用NVIDIA的GeForce8以后的GPU和较新的Quadro GPU进行计算
 
-![CUDA](D:/documents/%E4%B8%AD%E7%A7%91%E9%99%A2/Casit%E6%97%A5%E5%BF%97/pics/Processing%20flow%20on%20CUDA.png)
+![CUDA](./pics/Processing%20flow%20on%20CUDA.png)
 
 CUDA Toolkit：CUDA的SDK
 
@@ -428,7 +428,7 @@ NVIDIA：（英伟达）发明了GPU
 - 数值算法
 - 数据压缩
 
-![dlib machine learning](D:/documents/%E4%B8%AD%E7%A7%91%E9%99%A2/Casit%E6%97%A5%E5%BF%97/pics/ml_guide.svg)
+![dlib machine learning](./pics/ml_guide.svg)
 
 特点：
 
