@@ -4,7 +4,7 @@
 
 * awsome Projects in github
   * awsome: https://github.com/sindresorhus/awesome
-    * ![awsome project](.\pics\awsome.svg)
+    * ![awsome project](./pics/awsome.svg)
     * 
 
 
